@@ -21,6 +21,8 @@
 ## support heroku
 # support vps
 ## No Ban By Heroku  {Modified}
+### IMPORTENT
+### * 滚开妈妈的混蛋
 
 # If You Face Any Issue While Deploying Bot Or Ban Contact Me On Telegram
 ```
