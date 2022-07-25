@@ -19,10 +19,16 @@
   <p><a href="https://heroku.com/deploy?template=https://github.com/abhiseksh/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
  
  # Deploy On Railway
+ * Simple Way Instructions
+ * Do Not Upload "token.pickle&credential.json" Fil
+ 
+ * use deploy button
+ * Fill The Required Field
+ * Deploy
  
  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WCN4OA?referralCode=z99aRm)
  
-## support heroku
+## support heroku & Railway
 # support vps
 ## No Ban By Heroku  {Modified}
 ### IMPORTENT
